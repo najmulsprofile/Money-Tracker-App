@@ -13,4 +13,5 @@ A simple personal finance app to track your monthly income and expenses.
 
 ## Developer
 Md Najmul Hosen
+
 LinkedIn: https://www.linkedin.com/in/najmulsprofile
